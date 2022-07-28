@@ -1,0 +1,6 @@
+Failed to insert:attempt to write a readonly database
+Failed to insert:attempt to write a readonly database
+Failed to insert:attempt to write a readonly database
+Failed to insert:attempt to write a readonly database
+Failed to insert:attempt to write a readonly database
+Failed to insert:attempt to write a readonly database

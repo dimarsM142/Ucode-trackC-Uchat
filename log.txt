@@ -1,0 +1,477 @@
+2,10001bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:55134
+Connection: 127.0.0.1:55136
+Connection: 127.0.0.1:55138
+Connection: 127.0.0.1:55140
+No certificates.
+Error has occurred. Size less than or equal to 0
+bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:55134
+Connection: 127.0.0.1:55136
+Connection: 127.0.0.1:55138
+Connection: 127.0.0.1:55140
+Connection: 127.0.0.1:55144
+No certificates.
+ENTER PERSONAL c0werfwefMESSAGE FROM CLIENT:werfwef
+sdfsdfMESSAGE FROM CLIENT:sdfsdf
+sdfsdfMESSAGE FROM CLIENT:sdfsdf
+ssdfsdfsbootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:55134
+Connection: 127.0.0.1:55136
+Connection: 127.0.0.1:55138
+Connection: 127.0.0.1:55140
+Connection: 127.0.0.1:55144
+Connection: 127.0.0.1:55146
+Connection: 127.0.0.1:55148
+Connection: 127.0.0.1:55150
+Connection: 127.0.0.1:55152
+Connection: 127.0.0.1:55154
+No certificates.
+bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:55134
+Connection: 127.0.0.1:55136
+Connection: 127.0.0.1:55138
+Connection: 127.0.0.1:55140
+Connection: 127.0.0.1:55144
+Connection: 127.0.0.1:55146
+Connection: 127.0.0.1:55148
+Connection: 127.0.0.1:55150
+Connection: 127.0.0.1:55152
+Connection: 127.0.0.1:55154
+Connection: 127.0.0.1:55156
+No certificates.
+Error has occurred. Size less than or equal to 0
+2,10001bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55158
+No certificates.
+already exists
+bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55158
+Connection: 127.0.0.1:55160
+No certificates.
+ENTER PERSONAL e1ENTER PERSONAL e1ENTER PERSONAL e1ENTER PERSONAL e1sdfsdfMESSAGE FROM CLIENT:sdfsdf
+bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55158
+Connection: 127.0.0.1:55160
+Connection: 127.0.0.1:55162
+No certificates.
+ENTER PERSONAL e1asdMESSAGE FROM CLIENT:asd
+ENTER PERSONAL e1asdasdMESSAGE FROM CLIENT:asdasd
+sadsasdbootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55158
+Connection: 127.0.0.1:55160
+Connection: 127.0.0.1:55162
+Connection: 127.0.0.1:55164
+No certificates.
+ENTER PERSONAL c2ENTER PERSONAL c2ENTER PERSONAL c2ENTER PERSONAL c2sdfsMESSAGE FROM CLIENT:sdfs
+sdfsdfMESSAGE FROM CLIENT:sdfsdf
+sdfMESSAGE FROM CLIENT:sdf
+/home/vlad/Рабочий стол/index.jpgMESSAGE FROM CLIENT:/home/vlad/Рабочий стол/index.jpg
+MESSAGE FROM CLIENT:sadsasd
+2,10000bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:42032
+No certificates.
+2,100012,10001bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55166
+No certificates.
+2,10001bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:55168
+No certificates.
+2,10001bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55172
+No certificates.
+2,100012,10001bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55178
+Connection: 127.0.0.1:55180
+No certificates.
+already exists
+ENTER PERSONAL dima2bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:55178
+No certificates.
+already exists
+ENTER PERSONAL vlad1Hello DimaHello VladMESSAGE FROM CLIENT:Hello Vlad
+What you think about new campusMESSAGE FROM CLIENT:What you think about new campus
+/home/vlad/Рабочий стол/index.jpgMESSAGE FROM CLIENT:Hello Dima
+It is cool💪️MESSAGE FROM CLIENT:/home/vlad/Рабочий стол/index.jpg
+GoodbyMESSAGE FROM CLIENT:It is cool💪️
+ENTER PERSONAL Sasha0ENTER PERSONAL vlad1ENTER PERSONAL Sasha0ENTER PERSONAL vlad1MESSAGE FROM CLIENT:Goodby
+2,10000bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:40612
+Connection: 127.0.0.1:40614
+No certificates.
+already exists
+ENTER PERSONAL dima2bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:40612
+No certificates.
+already exists
+ENTER PERSONAL vlad1Hello vladMESSAGE FROM CLIENT:Hello vlad
+2,10000bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40616
+No certificates.
+ENTER PERSONAL vlad2bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40616
+Connection: 127.0.0.1:40618
+No certificates.
+ENTER PERSONAL dima1Hello Dimabootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40616
+Connection: 127.0.0.1:40618
+Connection: 127.0.0.1:40620
+No certificates.
+ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2MESSAGE FROM CLIENT:Hello Dima
+dsdfMESSAGE FROM CLIENT:dsdf
+sdfsdfMESSAGE FROM CLIENT:sdfsdf
+2,10000bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40622
+Connection: 127.0.0.1:40624
+No certificates.
+ENTER PERSONAL dima1bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40622
+No certificates.
+ENTER PERSONAL vlad2Hello DimaMESSAGE FROM CLIENT:Hello Dima
+2,10000bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40622
+Connection: 127.0.0.1:40624
+Connection: 127.0.0.1:40626
+Connection: 127.0.0.1:40628
+No certificates.
+already exists
+ENTER PERSONAL dima1bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40622
+Connection: 127.0.0.1:40624
+Connection: 127.0.0.1:40626
+No certificates.
+already exists
+ENTER PERSONAL vlad2Hello VladMESSAGE FROM CLIENT:Hello Vlad
+dsgMESSAGE FROM CLIENT:dsg
+xcvsdfMESSAGE FROM CLIENT:xcvsdf
+ENTER PERSONAL vlad2ENTER PERSONAL dima1ENTER PERSONAL dima1zdcMESSAGE FROM CLIENT:zdc
+adsasdMESSAGE FROM CLIENT:adsasd
+ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL vlad2ENTER PERSONAL dima1ENTER PERSONAL dima1ENTER PERSONAL dima1asdasdMESSAGE FROM CLIENT:asdasd
+2,10000bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40630
+Connection: 127.0.0.1:40632
+No certificates.
+ENTER PERSONAL vlad1bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40630
+No certificates.
+ENTER PERSONAL dima2Hello dimaMESSAGE FROM CLIENT:Hello dima
+2,10000bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40634
+Connection: 127.0.0.1:40636
+No certificates.
+ENTER PERSONAL dima1bootup started
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+Table created successfully
+bootup ended
+Connection: 127.0.0.1:40634
+No certificates.
+ENTER PERSONAL vlad2Hello Vlad:)Hy, Dima)MESSAGE FROM CLIENT:Hello Vlad:)
+What are you thinking about our new campus?MESSAGE FROM CLIENT:Hy, Dima)
+Are you see it?MESSAGE FROM CLIENT:What are you thinking about our new campus?
+yeah...MESSAGE FROM CLIENT:yeah...
+/home/vlad/Рабочий стол/index.jpgMESSAGE FROM CLIENT:Are you see it?
+WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOWMESSAGE FROM CLIENT:WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW
+ImpossibleMESSAGE FROM CLIENT:Impossible
+😀️MESSAGE FROM CLIENT:😀️
+ThanksMESSAGE FROM CLIENT:Thanks
+I`m want to go there every dayMESSAGE FROM CLIENT:/home/vlad/Рабочий стол/index.jpg
+YeahMESSAGE FROM CLIENT:Yeah
+See you later)MESSAGE FROM CLIENT:I`m want to go there every day
+Yeah, goodbye)MESSAGE FROM CLIENT:See you later)
+Bye✋️MESSAGE FROM CLIENT:Bye✋️
+ENTER PERSONAL Sasha0ENTER PERSONAL vlad2MESSAGE FROM CLIENT:Yeah, goodbye)
+2,10000bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:41486
+No certificates.
+ENTER PERSONAL vasya4bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:41486
+Connection: 127.0.0.1:41488
+No certificates.
+ENTER PERSONAL Шмиль3ываываываMESSAGE FROM CLIENT:ываываыва
+Привет шмильMESSAGE FROM CLIENT:Привет шмиль
+/home/vlad/uchat2/vkharkivsk/1.pngMESSAGE FROM CLIENT:/home/vlad/uchat2/vkharkivsk/1.png
+ываываMESSAGE FROM CLIENT:ываыва
+ываываываывваываываMESSAGE FROM CLIENT:ываываываывваываыва
+азщулкзпщлукщзплукываываываыMESSAGE FROM CLIENT:ываываываы
+ываываываMESSAGE FROM CLIENT:ываываыва
+🐷️MESSAGE FROM CLIENT:🐷️
+👮‍♀️️☎️MESSAGE FROM CLIENT:👮‍♀️️☎️
+ываываMESSAGE FROM CLIENT:ываыва
+ываыавываываMESSAGE FROM CLIENT:ываыавываыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:ыва
+ываMESSAGE FROM CLIENT:азщулкзпщлукщзплук
+ENTER PERSONAL vlad2sdfsdfsdfMESSAGE FROM CLIENT:sdfsdfsdf
+ENTER PERSONAL Шмиль3ENTER PERSONAL vlad2sdfsjdnflksndfMESSAGE FROM CLIENT:sdfsjdnflksndf
+sdfnsdfknsdlkfnMESSAGE FROM CLIENT:sdfnsdfknsdlkfn
+sdfnlskdnflksdnfMESSAGE FROM CLIENT:sdfnlskdnflksdnf
+ENTER PERSONAL vlad2ENTER PERSONAL Шмиль3ENTER PERSONAL vlad2MESSAGE FROM CLIENT:ыва
+2,10000bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:36358
+No certificates.
+2,100002,100002,100002,100002,10000bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:36368
+No certificates.
+ENTER PERSONAL dima1bootup started
+table Users already exists
+table Groups already exists
+table Group_members already exists
+table Friend_pairs already exists
+table Public_messages already exists
+table Personal_messages already exists
+table Group_messages already exists
+bootup ended
+Connection: 127.0.0.1:36368
+Connection: 127.0.0.1:36370
+No certificates.
+ENTER PERSONAL dima1ENTER PERSONAL dima1ENTER PERSONAL dima1sdfsdfMESSAGE FROM CLIENT:sdfsdf
+ssdfsdfMESSAGE FROM CLIENT:ssdfsdf

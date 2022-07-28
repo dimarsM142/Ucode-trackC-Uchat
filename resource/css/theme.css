@@ -1,0 +1,119 @@
+#send_entery {
+    border-radius: 100px;
+    border-color: #50c4d1;
+    border-width: 3px;
+}
+
+#send_button {
+    border-color: #50c4d1;
+    border-radius: 20px;
+    border-width: 3px;
+    background-image: url("../img/8.png");
+    background-size: 100% 100%;
+}
+
+#doc_button {
+    border-color: #50c4d1;
+    border-width: 3px;
+
+}
+
+#search_user_button {
+    border-color: #50c4d1;
+    border-width: 3px;
+    margin-left: 4px;
+}
+
+#search_button {
+    border-radius: 100px;
+    border-color: #50c4d1;
+    border-width: 3px;
+}
+
+
+#ddd {
+    /*background-color: #081073;*/
+    /*background-color: #50c4d1;*/
+    background-image: linear-gradient(45deg, #b6e974 0%, #cbf8a1 40%, #effae0 100%);
+}
+
+#u_name {
+    /*background-image: linear-gradient(45deg, #FF00FF 0%, #9133de 60%, #3b0041 100%);*/
+    background: linear-gradient(45deg, #56398b 0%, #06055a 70%, #29234d 100%);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+#friendsTreeView{
+    background-image: url("../img/9.jpg");
+    background-size: 100% 100%;
+    border-radius: 3px;
+    border-color: #50c4d1;
+}
+
+#boxx {
+    /*background-color: #081073;*/
+    background-image: linear-gradient(45deg, #b6e974 0%, #cbf8a1 40%, #effae0 100%);
+    background-color: #50c4d1;
+    background-size: 100% 100%;
+}
+
+#text {
+    
+    /*color:yellow;
+    margin-left: 5px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    border-top-left-radius: 10px;*/
+    margin: 5px 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    border-color: transparent;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    /*text-shadow:
+    1px 1px rgb(255, 255, 255),
+    2px 2px #777;
+    color: rgb(0, 0, 0);
+    transition: all 1s;*/
+}
+
+#c_button {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    /*background: #071871;*/
+    background: linear-gradient(45deg, #56398b 0%, #06055a 70%, #29234d 100%);
+    color: rgb(255, 255, 255);
+    border-radius: 100px;
+}
+
+#setting_button{
+    border-color: #50c4d1;
+    border-width: 3px;
+}
+#name_popup_label{
+    border-color: #50c4d1;
+    background: #ffffff;
+    border-width: 3px;
+    font-size: 20px;
+    font-style: italic;
+}
+#profile_name_text{
+    border-color: #50c4d1;
+    background:#ffffff;
+    border-width: 3px;
+    font-size: 20px;
+    
+}
+#log_out_button{
+    border-color: #50c4d1;
+    background:#ffffff;
+    border-width: 3px;
+    font-size: 18px;
+    border-radius: 2px;
+}
