@@ -13,7 +13,7 @@ make
 ```
 
 The last command caт be run on multiple terminals.<br />
-You can also watch the video for an example of launching the program and its operation.
+An example of launching the program and how it works can also be viewed in the video.
 https://www.youtube.com/watch?v=LtvW_x3gr28
 
 ![image](https://user-images.githubusercontent.com/92023832/153760007-89e6d363-6129-420d-9b2d-cde796c793b7.png)
