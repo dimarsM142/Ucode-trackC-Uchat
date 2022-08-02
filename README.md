@@ -12,7 +12,7 @@ make
 ./uchat 127.0.0.1 10000
 ```
 
-The last command caт be run on multiple terminals.
+The last command caт be run on multiple terminals.<br />
 You can also watch the video for an example of launching the program and its operation.
 https://www.youtube.com/watch?v=LtvW_x3gr28
 
